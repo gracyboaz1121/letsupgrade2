@@ -1,0 +1,7 @@
+<script>
+ var age;
+ if age>21
+   console.write("can drink");
+ else
+   console.write("cannot drink");
+</script>
